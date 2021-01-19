@@ -40,4 +40,15 @@ dependencies {
 
 
     implementation'com.google.android.gms:play-services-location:17.0.0'
+
+
+
+    implementation "com.mikepenz:materialdrawer:6.1.2"
+
+    //required support lib modules
+    implementation "androidx.appcompat:appcompat:${versions.androidX}"
+    implementation "androidx.recyclerview:recyclerview:${versions.androidX}"
+    implementation "androidx.annotation:annotation:${versions.androidX}"
+    implementation "com.google.android.material:material:${versions.androidX}"
+    implementation "androidx.constraintlayout:constraintlayout:${versions.constraintLayout}"
 }

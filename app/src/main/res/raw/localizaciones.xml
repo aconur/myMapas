@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <localizaciones>
+
+    <!-- HOTELES -->
+    <localizacion>
+        <titulo>Can Barrull</titulo>
+        <fragmento>https://h.priceline.com/hotel/es/can-barrull.es.html?aid=850795</fragmento>
+        <etiqueta>hotel</etiqueta>
+        <latitud>39.421004</latitud>
+        <longitud>-0.4807809</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Casa Rural Can Ginesta</titulo>
+        <fragmento>https://h.priceline.com/hotel/es/casa-rural-can-ginesta.es.html?aid=850795</fragmento>
+        <etiqueta>hotel</etiqueta>
+        <latitud>39.4212508</latitud>
+        <longitud>0.4799069</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>CASA CATALUNYA 6</titulo>
+        <fragmento>https://h.priceline.com/hotel/es/casa-catalunya-6.es.html?aid=850795</fragmento>
+        <etiqueta>hotel</etiqueta>
+        <latitud>39.4400253</latitud>
+        <longitud>-0.495497</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Mas Pericay</titulo>
+        <fragmento>https://h.priceline.com/hotel/es/mas-pericay.es.html?aid=850795</fragmento>
+        <etiqueta>hotel</etiqueta>
+        <latitud>39.4385357</latitud>
+        <longitud>-0.4988034</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Balmy Villa in Pals with Private Swimming Pool</titulo>
+        <fragmento>https://h.priceline.com/hotel/es/balmy-villa-in-pals-with-private-swimming-pool.es.html?aid=850795</fragmento>
+        <etiqueta>hotel</etiqueta>
+        <latitud>39.4290406</latitud>
+        <longitud>-0.496942</longitud>
+    </localizacion>
+
+
+    <!-- CIUDADES -->
+
+
+    <localizacion>
+        <titulo>Torrent</titulo>
+        <fragmento>961111111</fragmento>
+        <etiqueta>ciudad</etiqueta>
+        <latitud>39.424079</latitud>
+        <longitud>-0.5107401</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Alaquas</titulo>
+        <fragmento>962222222</fragmento>
+        <etiqueta>ciudad</etiqueta>
+        <latitud>39.4515089</latitud>
+        <longitud>-0.5122293</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Pîcaña</titulo>
+        <fragmento>963333333</fragmento>
+        <etiqueta>ciudad</etiqueta>
+        <latitud>39.4327903</latitud>
+        <longitud>-0.4558285</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Paiporta</titulo>
+        <fragmento>964444444</fragmento>
+        <etiqueta>ciudad</etiqueta>
+        <latitud>39.4274459</latitud>
+        <longitud>-0.4278501</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Cheste</titulo>
+        <fragmento>965555555</fragmento>
+        <etiqueta>ciudad</etiqueta>
+        <latitud>39.4944791</latitud>
+        <longitud>-0.6940923</longitud>
+    </localizacion>
+
+
+
+</localizaciones>
